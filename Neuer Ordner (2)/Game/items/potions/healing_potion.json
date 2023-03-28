@@ -1,0 +1,14 @@
+{
+    "data": {
+      "id": 20011,
+      "damage_mult": 1,
+      "critchance_mult%": 1,
+      "critdamage_mult%": 1,
+      "hitchance_mult%":1,
+      "base_health%_mult": 1.03,
+      "enemy_hitchance":1,
+      "level": null,
+      "effect": null,
+      "duration": 2
+    }
+  }

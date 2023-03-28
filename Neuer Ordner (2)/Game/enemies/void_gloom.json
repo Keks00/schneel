@@ -1,0 +1,14 @@
+{
+    "data": {
+      "id": 30011,
+      "health_base": 30,
+      "damage_base": 4,
+      "defence_base%": 1,
+      "critchance_base%": 0.4,
+      "critdamage_base_mult%": 1.4,
+      "hitchance_base_mult%":0.8,
+      "player_base_hitchance_penalty%":1,
+      "level": null,
+      "effect":null
+    }
+  }

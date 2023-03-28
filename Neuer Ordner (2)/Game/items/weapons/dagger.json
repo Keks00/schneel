@@ -1,0 +1,14 @@
+{
+      "data": {
+        "id": 10031,
+        "damage_mult": 0.9,
+        "critchance": 1.5,
+        "critdamage": 1.2,
+        "hitchance":1.2,
+        "enemy_hitchance":1.5,
+        "level": null,
+        "pickup_time": 0,
+        "effect": null,
+        "aim" :  false
+      }
+    }
